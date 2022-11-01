@@ -1,1 +1,15 @@
-<center><img src="https://raw.githubusercontent.com/agora-verbum/minha-pica-luca/main/logo.png?token=GHSAT0AAAAAAB2NNNTU33AMX2V5DT7BYDC4Y2ZHCMA"></center>
+# AGORA: Illuminatio per Verbum
+
+### Desenvolvimento Layout
+
+- [X] Login
+
+<img src="">
+
+- [X] Cadastro
+
+<img src="">
+
+- [X] Home 
+- [ ] Postagens Favoritas
+- [ ] Perfil 
